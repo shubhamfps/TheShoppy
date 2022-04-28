@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TheShoppy" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#487571</item>
+        <item name="colorPrimaryDark">#0E3E39</item>
+        <item name="colorAccent">#20E8D5</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
